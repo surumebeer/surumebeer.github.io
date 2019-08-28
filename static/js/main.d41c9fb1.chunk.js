@@ -1,0 +1,2 @@
+(window["webpackJsonpsurumebeer.github.io"]=window["webpackJsonpsurumebeer.github.io"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var u=t(0),r=t.n(u),o=t(2),i=t.n(o),s=document.getElementById("app");i.a.render(r.a.createElement("h1",null,"test"),s)}],[[3,1,2]]]);
+//# sourceMappingURL=main.d41c9fb1.chunk.js.map
