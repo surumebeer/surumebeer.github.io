@@ -21,4 +21,4 @@ deploy:
   local-dir: build
   target-branch: master
   on:
-    branch: add-travis
+    branch: develop
